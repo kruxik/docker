@@ -14,7 +14,7 @@ RUN apt-get update
 RUN apt-get -y dist-upgrade
 
 # Install basic software
-RUN apt-get install -y --force-yes psmisc openssh-server vim bash-completion supervisor git
+RUN apt-get install -y --force-yes psmisc openssh-server vim bash-completion supervisor git wget
 
 # Clean system
 RUN apt-get autoclean -y
