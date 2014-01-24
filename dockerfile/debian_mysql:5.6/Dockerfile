@@ -1,4 +1,4 @@
-FROM krux:5000/debian_base:wheezy
+FROM ORIGIN/debian_base:wheezy
 MAINTAINER Petr Burian <petr.burian@livesport.eu>
 
 # Make Ubuntu most accurate

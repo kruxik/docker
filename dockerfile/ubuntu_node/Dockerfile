@@ -1,4 +1,4 @@
-FROM localhost:5000/ubuntu_base:13.10
+FROM ORIGIN/ubuntu_base:13.10
 MAINTAINER Petr Burian <petr.burian@livesport.eu>
 
 # Add sources of Node.js

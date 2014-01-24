@@ -1,4 +1,4 @@
-FROM krux:5000/debian_base:squeeze
+FROM ORIGIN/debian_base:squeeze
 MAINTAINER Petr Burian <petr.burian@livesport.eu>
 
 # Add MariaDB data source
