@@ -1,0 +1,4 @@
+# MariaDB 5.5 repository list - created 2014-01-24 11:28 UTC
+# http://mariadb.org/mariadb/repositories/
+deb http://mirror.vpsfree.cz/mariadb/repo/5.5/debian squeeze main
+deb-src http://mirror.vpsfree.cz/mariadb/repo/5.5/debian squeeze main
