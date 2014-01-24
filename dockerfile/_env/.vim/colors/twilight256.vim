@@ -1,1 +1,0 @@
-../bundle/twilight256.vim/colors/twilight256.vim
