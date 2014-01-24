@@ -1,0 +1,4 @@
+# MariaDB 10.0 repository list - created 2014-01-24 15:24 UTC
+# # http://mariadb.org/mariadb/repositories/
+deb http://mirror.vpsfree.cz/mariadb/repo/10.0/debian squeeze main
+deb-src http://mirror.vpsfree.cz/mariadb/repo/10.0/debian squeeze main

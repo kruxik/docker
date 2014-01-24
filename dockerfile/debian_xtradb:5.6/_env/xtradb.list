@@ -1,0 +1,3 @@
+# Percona xTraDB server
+deb http://repo.percona.com/apt squeeze main
+deb-src http://repo.percona.com/apt squeeze main
